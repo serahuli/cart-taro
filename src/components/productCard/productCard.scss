@@ -1,0 +1,22 @@
+.product-card {
+  width: 90%;
+  margin: 15px 5%;
+  border: 1px solid #dddada;
+  border-radius: 14px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  box-shadow: #dddada 3px 3px 6px;
+
+  &__title {
+    height: 60px;
+    padding: 10px;
+    border-bottom: 1px solid #D9D9D9;
+    vertical-align: middle;
+  }
+}
+
+.product-card:first-of-type {
+  margin: 20px 5%;
+}

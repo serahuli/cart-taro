@@ -1,0 +1,40 @@
+[
+  {
+    "shopName": "法国红酒庄",
+    "productList": [
+      {
+        "productId": 123,
+        "productName": "花儿开了2020秋冬新款白色收腰小香风粗花呢外套女中长款修身大衣",
+        "productPrice": "1899.00",
+        "productDesc": "天猫为第三方布买商品/服务前注意谨慎核格、详情等任何信息有任何疑问的",
+        "productImg": "https://img.alicdn.com/bao/uploaded/O1CN01PqCRjW1aXJ7TJ0MM3_!!731433339.jpg_250x250.jpg"
+      },
+      {
+        "productId": 1234,
+        "productName": "花儿开了2020秋冬新款白色收腰小香风粗花呢外套女中长款修身大衣",
+        "productPrice": "188.00",
+        "productDesc": "天猫为第三方布买商品/服务前注意谨慎核格、详情等任何信息有任何疑问的",
+        "productImg": "https://img.alicdn.com/bao/uploaded/O1CN01PqCRjW1aXJ7TJ0MM3_!!731433339.jpg_250x250.jpg"
+      },
+      {
+        "productId": 12345,
+        "productName": "花儿开了2020秋冬新款白色收腰小香风粗花呢外套女中长款修身大衣",
+        "productPrice": "44.00",
+        "productDesc": "天猫为第三方布买商品/服务前注意谨慎核格、详情等任何信息有任何疑问的",
+        "productImg": "https://img.alicdn.com/bao/uploaded/O1CN01PqCRjW1aXJ7TJ0MM3_!!731433339.jpg_250x250.jpg"
+      }
+    ]
+  },
+  {
+    "shopName": "阿里云疯狂折扣",
+    "productList": [
+      {
+        "productId": 12346,
+        "productName": "花儿开了2020春夏新款网纱蕾丝荷叶边短款外套女斗篷复古外搭风衣",
+        "productPrice": "55.00",
+        "productDesc": "天猫为第三方布买商品/服务前注意谨慎核格、详情等任何信息有任何疑问的",
+        "productImg": "https://img.alicdn.com/bao/uploaded/O1CN01PqCRjW1aXJ7TJ0MM3_!!731433339.jpg_250x250.jpg"
+      }
+    ]
+  }
+]
